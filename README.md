@@ -1,4 +1,4 @@
-# automaton
+# Automaton
 <img src="robot.jpg"
      alt="Markdown Monster icon"/>
 
